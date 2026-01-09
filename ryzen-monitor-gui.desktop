@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Ryzen Monitor GUI
+Comment=Monitor AMD Ryzen CPU statistics
+Exec=/usr/bin/sudo /usr/bin/python3 /home/enes/temp/ryzen_monitor/ryzen_monitor_gui.py
+Icon=utilities-system-monitor
+Categories=System;Monitor;
+Terminal=false

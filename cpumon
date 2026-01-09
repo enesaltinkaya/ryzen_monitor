@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo /home/enes/temp/ryzen_monitor/ryzen_monitor_gui.py
